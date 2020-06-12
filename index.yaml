@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  busybox:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-12T16:34:59.182309483+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a135065f49373b27e365d5f52ad10400c95ab07452556f9a4dae12e46c961743
+    name: busybox
+    type: application
+    urls:
+    - https://github.com/kumar11vaibhav/ch-pages.git/busybox-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-12T16:34:59.181097801+05:30"
